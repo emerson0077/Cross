@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1097559465613",
+    "project_id": "app1-657b5",
+    "storage_bucket": "app1-657b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097559465613:android:283bb0e2f39b6f98d34cc4",
+        "android_client_info": {
+          "package_name": "com.aizaz.top.bbc.flutter_news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBshWvW0KHULiycRimo2Vo05JVb-GD5vC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097559465613:android:6cb527396fd07658d34cc4",
+        "android_client_info": {
+          "package_name": "news.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBshWvW0KHULiycRimo2Vo05JVb-GD5vC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097559465613:android:0051a9080181f78dd34cc4",
+        "android_client_info": {
+          "package_name": "news2.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBshWvW0KHULiycRimo2Vo05JVb-GD5vC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
